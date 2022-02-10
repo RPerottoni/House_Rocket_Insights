@@ -2,7 +2,7 @@ This repository contains business analysis scripts of a real estate portfolio, b
 
 # HOUSE ROCKET COMPANY - A INSIGHT PROJECT
 
-<img src="https://github.com/RPerottoni/House_Rocket_Insights/blob/main/img/house.png" width=100% height=60%/>
+<img src="https://github.com/RPerottoni/House_Rocket_Insights/blob/main/img/house.png" width=100% height=40%/>
 
 ## 1. About House Rocket
 
