@@ -2,13 +2,12 @@ This repository contains business analysis scripts of a real estate portfolio, b
 
 # HOUSE ROCKET COMPANY - A INSIGHT PROJECT
 
-<img src="https://github.com/RPerottoni/House_Rocket_Insights/blob/main/img/house.png" width=70% height=60%/>
+<img src="https://github.com/RPerottoni/House_Rocket_Insights/blob/main/img/house.png" width=100% height=60%/>
 
 ## 1. About House Rocket
 
 House Rocket is a company that is specilist in buying and resell properties. The business model is act as online platform and they are starting to use the technology to find the best business opportunities, seeking to improve their profit and be more competitive.<br>
 
----
 ## 2. Business Problem
 
 The proprerties market is actually very competitive and if you are not updated, the tendency is reduce your profit and find potential customers will be much harder. Because of that, the House Rocket CEO thought to use DataScience seeking a profit improvement.
