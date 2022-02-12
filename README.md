@@ -1,35 +1,20 @@
-This repository contains business analysis scripts of a real estate portfolio, but the business problem and the company are ficticial. <br>
+This repository contains business analytics scripts of a real estate portfolio, but the business problem and the company are ficticial. <br>
 
 # HOUSE ROCKET COMPANY - A INSIGHT PROJECT
 
 <img src="https://github.com/RPerottoni/House_Rocket_Insights/blob/main/img/house.png" width=100% height=40%/>
 
-## 1. About House Rocket
+## 1 About House Rocket
 
 House Rocket is a company that is specilist in buying and resell properties. The business model is act as online platform and they are starting to use the technology to find the best business opportunities, seeking to improve their profit and be more competitive.<br>
 
-## 2. Business Problem
+### 1.2 Context
 
 The proprerties market is actually very competitive and if you are not updated, the tendency is reduce your profit and find potential customers will be much harder. Because of that, the House Rocket CEO thought to use DataScience seeking a profit improvement.
 
-## 3. Business Results
+### 1.3 Bussiness Problem
 
-
-## 4. Business Assumptions
-
-* Available data are only from May 2014 to May 2015.
-* There was a value where the number of bedrooms is vast compared to other houses, so this data was removed, assuming it was an input error.
-* When the houses could be sold on different seasons, considered just one to analyze the most suitable season to sell it.
-* Seasons of the year:<br>
-   * Spring starts on March 1 st<br>
-   * Summer starts on June 1 st<br>
-   * Fall starts on September 1 st<br>
-   * Winter starts on December 1 st<br>
-
-<br>
-
-* The variables on the original dataset are:<br>
-
+### 1.4 About the datas
 Variable | Definition
 ------------ | -------------
 |id | Identification number of each property|
@@ -56,25 +41,14 @@ Variable | Definition
 
 <br>
 
-## 5. Solution Strategy
-My strategy to solve this challenge was:
-1. Understanding the business model 
-2. Understanding the business problem
-3. Collecting the data
-4. Data Description
-5. Data Filtering
-6. Feature Engineering
-8. Exploratory Data Analysis
-9. Insights Conclusion
-10. Dashboard deploy on [Heroku](https://houserocketri-analytics.herokuapp.com/)
 
 
-## 6. Top Data Insights
+### 1.5 Premissas
 
-## 7. Conclusion
 
-## 8. Next Steps
 
+
+### 1.4 Business Assumptions
 
 
 ----
