@@ -55,10 +55,10 @@ Variable | Definition
 ### To solve the business questions
 
 There are the considerations that was made: 
-**Good properties to buy:** Are the properties were the price is lower than the median price by region and the house condition is good (higher than 3).
-**Price to buy:** The price to buy needs to be lower than the region median price.
-**The best time to sell:** According to the date, was created and defined a new feature: season. And the datas was classified by season. The best time to sell is the season where the profit is higer.
-**Price to sell:** The price to sell was defined according the following criteria: If the median price by season is higher than the property price, the selling price will be 30% over the price to buy and if the median price by season is lower than the property price, the selling price will be 10% over the price to buy.
+**Good properties to buy:** Are the properties were the price is lower than the median price by region and the house condition is good (higher than 3). <br>
+**Price to buy:** The price to buy needs to be lower than the region median price. <br>
+**The best time to sell:** According to the date, was created and defined a new feature: season. And the datas was classified by season. The best time to sell is the season where the profit is higer.<br>
+**Price to sell:** The price to sell was defined according the following criteria: If the median price by season is higher than the property price, the selling price will be 30% over the price to buy and if the median price by season is lower than the property price, the selling price will be 10% over the price to buy.<br>
 
 ### Main Insights
 
@@ -78,7 +78,7 @@ There are the considerations that was made:
 According to the mainly questions, was possible to calculate the company's profit, and it is estimated in $1.124.865.171,00.
 
 ### Conclusions
-The result of this project is dashboard, where could be accessed by the link https://houserocketri-analytics.herokuapp.com/.
+The result of this project is dashboard, where could be accessed by the link https://houserocketri-analytics.herokuapp.com/. <br>
 There is possible to see the answers about the business questions, and the main insights obtained. Which the CEO and the company can be use to improve the company's performance.
 
 ----
