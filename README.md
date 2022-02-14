@@ -62,8 +62,8 @@ There are the considerations that was made:
 
 ### Main Insights
 
-1. Proprerties that is water front are 20% more expensive. **True**
-2. Proprerties that was built before 1955 are 50% cheaper. **True**
+1. Properties that is water front are 20% more expensive. **True**
+2. Properties that was built before 1955 are 50% cheaper. **True**
 3. Properties without basement are 40% bigger that the others. **True**
 4. YoY ( Year over Year ) property price growth is 10%. **True**
 5. Month over Month price growth is 15% for properties with 3 bathrooms. **False**
