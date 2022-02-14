@@ -47,7 +47,7 @@ def data_correct(df):
     return(None)
 
 def description(df):        
-    st.header('HOUSE ROCKET - A INSIGHT PROJECT')
+    st.header('HOUSE ROCKET COMPANY')
 
 def business_problems(df, geofile):
 
