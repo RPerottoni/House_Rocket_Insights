@@ -54,15 +54,11 @@ Variable | Definition
 
 ### To solve the business questions
 
-Seeking to solve the business questions, there are some steps and considerations that was made:
-- Data cleaning
-- Exploratory Data Analysis
-- Feature Engineering
-
-The considerations that was made are: 
-- Good properties to buy: Are the properties were the price is lower than the median price by region and the house condition is good (higher than 3).
-- Price to buy: The price to buy needs to be lower than the region median price.
-- The best time to sell: According to the date, was created and defined a new feature: season. And the datas was classified by season.
+There are the considerations that was made: 
+- **Good properties to buy:** Are the properties were the price is lower than the median price by region and the house condition is good (higher than 3).
+- **Price to buy:** The price to buy needs to be lower than the region median price.
+- **The best time to sell:** According to the date, was created and defined a new feature: season. And the datas was classified by season. The best time to sell is the season where the profit is higer.
+- **Price to sell:** The price to sell was defined according the following criteria: If the median price by season is higher than the property price, the selling price will be 30% over the price to buy and if the median price by season is lower than the property price, the selling price will be 10% over the price to buy.
 
 ----
 **References:**
