@@ -17,15 +17,15 @@ However, the properties have many attributes that make them more or less attract
 
 Seeking to achieve the goal, there are two mainly questions thats directs the project:
 
-1. Which properties the company should buy and how much they should pay for each property? 
+1. Which properties the company should buy and how much they should pay for each property?
 
 2. Once purchased, when the company should resell and what should be the price?
 
 ### 1.4 About the datas
 
-The dataset contains information about the properties that was sold between May 2014 and may 2015 and is possible to download the dataset following the link (https://www.kaggle.com/harlfoxem/housesalesprediction)
+The dataset contains information about the properties that was sold between May 2014 and may 2015 and is possible to download the dataset following the link https://www.kaggle.com/harlfoxem/housesalesprediction
 
-
+The description about the variables could be checked bellow:
 
 Variable | Definition
 ------------ | -------------
