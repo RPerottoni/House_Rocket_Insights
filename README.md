@@ -1,36 +1,23 @@
 This repository contains business analytics scripts of a real estate portfolio, but the business problem and the company are ficticial. <br>
 
-# HOUSE ROCKET COMPANY - A INSIGHT PROJECT
+# HOUSE ROCKET COMPANY
 
 <img src="https://github.com/RPerottoni/House_Rocket_Insights/blob/main/img/house.png" width=100% height=40%/>
 
-## 1 About House Rocket
+## About House Rocket
 
-House Rocket is a company that is specialist in buying and resell properties. The business model is act as online platform and they realiase that they should use Data Science to help them to find the best business opportunities. <br>
+House Rocket is a company that is specialist in buying and resell properties using technology. The business model is act as online platform and they realiase that they should use Data Science to help them to find the best business opportunities. <br>
 
 The goal of this project is delivery insights for the company, helping them to find the best business opportunities, seeking to be more attractive for the customers, improving the company's profit.
 
-The company strategy is based on buy good houses, and ressel them for a good price. The definition for what is a good house, good price to buy, to sell, are based on some criteria.
+The strategy to achieve this goal is to buy good houses in great locations at low price and resell them for a hight price.
+However, the properties have many attributes that make them more or less attractive to buyers and sellers, furthermore the location and time of year can also influence prices.
 
-### 1.2 Context
+### Business Questions
 
-The proprerties market is actually very competitive and if you are not updated, the tendency is reduce your profit and find potential customers will be much harder. Because of that, the House Rocket CEO thought to use DataScience seeking a profit improvement.
+1. Which properties the company should buy and how much they should pay for each property? 
 
-### 1.3 Bussiness Problem
-
-There are two mainly reasons for this projetc:
-
-a) The business team can't made good decisions without analyse the datas, due the number of the properties characteristics. And that makes the process very slow and the deals done are not profitable;
-
-b) O portfólio é muito grande, o que levaria muito tempo para fazer o trabalho manualmente.
-
-O objetivo desse projeto é fornecer uma seleção de imóveis, dadas as melhores condições, para que a empresa possa realizar suas operações de compra e venda. O planejamento é demonstrar através de visualizações, quais as melhores oportunidades e qual resultado (lucro) máximo que pode ser alcançado.
-
-Em suma, o projeto visa responder às seguintes perguntas de negócio:
-
-Quais são os imóveis que a House Rocket deveria comprar e por qual preço ?
-Uma vez a casa comprada, qual o melhor momento para vendê-las e por qual preço ?
-
+2. Once purchased, when the company should resell and what should be the price?
 
 ### 1.4 About the datas
 Variable | Definition
@@ -56,18 +43,7 @@ Variable | Definition
 |long | Longitude|
 |sqft_living15 | The square feet average size of interior housing living space for the closest 15 houses|
 |sqft_lot15 | The square feet average size of land lots for the closest 15 houses|
-
 <br>
-
-
-
-### 1.5 Premissas
-
-
-
-
-### 1.4 Business Assumptions
-
 
 ----
 **References:**
