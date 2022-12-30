@@ -371,7 +371,7 @@ def hipothesys(df2):
 if __name__ == '__main__':
 
     #! Data Extraction
-    path = '/home/reng/Documentos/ds_repos/House_Rocket_Insights/data/kc_house_data.csv'
+    path = './data/kc_house_data.csv'
     df = get_data(path)
     url = 'https://opendata.arcgis.com/datasets/83fc2e72903343aabff6de8cb445b81c_2.geojson'
     geofile = get_geofile( url )
