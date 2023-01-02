@@ -120,7 +120,7 @@ According to the analysis, there are 3863 properties available that fit in the p
 
 Although simple, the insights projects is based on a exploratory data analysis allows achive good result faster and it is a good point to start.
 Through this analysis was possible to answers the main business questions and find some intersting insights that can help the company make better decisions.
-As a result of this project, there is dashboard, where could be accessed by the link https://houserocketri-analytics.herokuapp.com/. <br>
+As a result of this project, there is dashboard, where could be accessed by the link https://rperottoni-house-rocket-insights-houserocket-app-cw339m.streamlit.app. <br>
 There is possible to see the answers about the business questions, and the insights obtained.
 
 ### Next Steps
